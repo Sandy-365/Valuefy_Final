@@ -7,7 +7,7 @@
 This Android app allows users to transcribe audio files using the AssemblyAI API and view key points and ToDo items. The app is built with **Java** and uses **Android Studio** for development.
 
 🎬 [**5 min Video Walkthrough**](https://drive.google.com/file/d/1o6M3QrhylcThJYZJmizkOCXRR3nxYzzI/view?usp=sharing)
-
+![App Preview](https://drive.google.com/file/d/19zsSbI9Z3YWY2SA4sNMQDfnf5eH-Edaa/view?usp=sharing)
 ---
 
 ## 📁 Features
