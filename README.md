@@ -24,8 +24,8 @@ This Android app allows users to transcribe audio files using the AssemblyAI API
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Sandy-365/Valuefy_Project.git
-cd Valuefy_Project
+git clone https://github.com/Sandy-365/Valuefy_Final.git
+cd Valuefy_Final
 ```
 
 ### 2️⃣ Open in Android Studio
