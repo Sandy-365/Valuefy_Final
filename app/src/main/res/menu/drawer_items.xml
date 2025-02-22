@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/navHome"
+            android:icon="@drawable/home_ico"
+            android:title="Home" />
+        <item
+            android:id="@+id/navToDo"
+            android:icon="@drawable/check_ico"
+            android:title="ToDo" />
+        <item
+            android:id="@+id/navHistory"
+            android:icon="@drawable/history_ico"
+            android:title="History" />
+    </group>
+
+    <group>
+        <item
+            android:icon="@drawable/contact_ico"
+            android:id="@+id/navContact"
+            android:title="Contact" />
+        <item
+            android:icon="@drawable/feed_ico"
+            android:id="@+id/navFeedback"
+            android:title="Feedback" />
+    </group>
+
+    <item android:title=""/>
+
+    <group>
+        <item
+            android:icon="@drawable/share_ico"
+            android:id="@+id/navShare"
+            android:title="Share" />
+        <item
+            android:icon="@drawable/log"
+            android:id="@+id/navLogout"
+            android:title="Logout" />
+    </group>
+
+</menu>
